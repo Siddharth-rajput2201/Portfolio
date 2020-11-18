@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "ad5ef20021f22f4d93c88d8facd761ab",
-"assets/NOTICES": "e0fdbcb1a90cc9870866b9ee3421ad2d",
+  "main.dart.js": "9fb212a606f261c5b99f6c6fa80c4f83",
+"assets/NOTICES": "8ae6c03581affc19af961fa0bfe411e8",
 "assets/assets/images/instagram.png": "03f40b67b63d9c1c1a5a792109bbc699",
 "assets/assets/images/downloadicon.png": "8980dcbf6406a2dd29278bdce4f5d33a",
 "assets/assets/images/homepricepredictorapplogo.png": "3b883cbc203770f60c610dd097c5bb6a",
@@ -16,8 +16,8 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/AssetManifest.json": "a9497c3d4ec2181db842db638fb3d689",
-"index.html": "39d216ae589226b4119f58dcd2bac848",
-"/": "39d216ae589226b4119f58dcd2bac848",
+"index.html": "27cfb245288eab9721fdb9fbfed65de0",
+"/": "27cfb245288eab9721fdb9fbfed65de0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
