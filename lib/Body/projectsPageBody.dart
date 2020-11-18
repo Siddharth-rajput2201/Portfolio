@@ -129,7 +129,7 @@ class _projectsPageBodyState extends State<projectsPageBody> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Panel(projectName : 'HOME PRICE PREDICTOR', width: constraints.biggest.width / 4.5 ,imagepath: 'assets/images/homepricepredictorapplogo.png', githuburl: 'https://github.com/Siddharth-rajput2201/Home_Price_Predictor_App',downloadurl: 'https://drive.google.com/file/d/1pWFcpwIIj6a053jwYIEXxMq0s-gauTlv/view?usp=sharing'),
-                Panel(projectName : 'HOME PRICE PREDICTOR', width: constraints.biggest.width / 4.5 ,imagepath: 'assets/images/homepricepredictorapplogo.png', githuburl: 'https://github.com/Siddharth-rajput2201/Home_Price_Predictor_App',downloadurl: 'https://drive.google.com/file/d/1pWFcpwIIj6a053jwYIEXxMq0s-gauTlv/view?usp=sharing'),
+                Panel(projectName : 'COVID 19 TRACKER', width: constraints.biggest.width / 4.5 ,imagepath: 'assets/images/coivd19tracker.png', githuburl: 'https://github.com/Siddharth-rajput2201/Covid19_Tracker',downloadurl: 'https://drive.google.com/file/d/1X5gDFku0dlgBINn65jekwf8vb7OF_-SY/view?usp=sharing'),
               ],
             ),
           ],
