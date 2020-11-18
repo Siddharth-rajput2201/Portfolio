@@ -46208,7 +46208,7 @@ if(n>800){s=C.f.R(1/0,l,n)
 C.f.R(1/0,k,j)
 n=C.f.R(1/0,l,n)
 C.f.R(1/0,k,j)
-return T.i1(H.c([T.Of(H.c([new N.lI(r,q,s/4.5,p,o,null),new N.lI(r,q,n/4.5,p,o,null)],m),C.aW)],m),C.aG,C.jI)}else{n=C.f.R(1/0,l,n)
+return T.i1(H.c([T.Of(H.c([new N.lI(r,q,s/4.5,p,o,null),new N.lI("COVID 19 TRACKER","assets/images/coivd19tracker.png",n/4.5,"https://github.com/Siddharth-rajput2201/Covid19_Tracker","https://drive.google.com/file/d/1X5gDFku0dlgBINn65jekwf8vb7OF_-SY/view?usp=sharing",null)],m),C.aW)],m),C.aG,C.jI)}else{n=C.f.R(1/0,l,n)
 C.f.R(1/0,k,j)
 return T.i1(H.c([new N.lI(r,q,n/1.15,p,o,null)],m),C.aG,C.jI)}},
 $S:297}

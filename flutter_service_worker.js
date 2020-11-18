@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "f93e77e98603e0165b4b66cad902b197",
+  "main.dart.js": "d8743930448fe308db3147e2f2ab2591",
 "assets/NOTICES": "8ae6c03581affc19af961fa0bfe411e8",
+"assets/assets/images/coivd19tracker.png": "4abfa0a9ab0741ca5501053fd355e584",
 "assets/assets/images/instagram.png": "03f40b67b63d9c1c1a5a792109bbc699",
 "assets/assets/images/downloadicon.png": "8980dcbf6406a2dd29278bdce4f5d33a",
 "assets/assets/images/homepricepredictorapplogo.png": "3b883cbc203770f60c610dd097c5bb6a",
@@ -15,9 +16,9 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/AssetManifest.json": "a9497c3d4ec2181db842db638fb3d689",
-"index.html": "34071395cffd3cac0c117c1501f9e0a1",
-"/": "34071395cffd3cac0c117c1501f9e0a1",
+"assets/AssetManifest.json": "bdd5b973c7912ab967e85e44eeb8306e",
+"index.html": "9be2b979e10173b8c913967e73217bdb",
+"/": "9be2b979e10173b8c913967e73217bdb",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
