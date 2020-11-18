@@ -49,8 +49,7 @@ class HomePageBody extends StatelessWidget {
                     height: 45,
                   ),
                   CircularProfileAvatar(
-                    "", radius: 80,
-                    //onTap: (){},
+                    "assets/images/profile_photo.jpeg", radius: 80,
                     elevation: 20.0,
                   ),
                   SizedBox(
