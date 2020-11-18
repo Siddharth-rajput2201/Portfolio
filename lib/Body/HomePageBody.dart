@@ -52,6 +52,7 @@ class HomePageBody extends StatelessWidget {
                   //   radius: 80,
                   //   backgroundImage: AssetImage('assets/images/profile_photo.jpeg'),
                   // ),
+
                   CircularProfileAvatar(
                     "assets/images/profile_photo.jpeg", radius: 80,
                     elevation: 20.0,
