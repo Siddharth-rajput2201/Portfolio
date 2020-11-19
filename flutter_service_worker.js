@@ -3,13 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "f8548a4e851f7fe383c0d2de10a71845",
+  "main.dart.js": "f9dc6a72360d73c16538766f735efe40",
 "assets/NOTICES": "8ae6c03581affc19af961fa0bfe411e8",
 "assets/assets/images/coivd19tracker.png": "4abfa0a9ab0741ca5501053fd355e584",
 "assets/assets/images/instagram.png": "03f40b67b63d9c1c1a5a792109bbc699",
 "assets/assets/images/downloadicon.png": "8980dcbf6406a2dd29278bdce4f5d33a",
 "assets/assets/images/homepricepredictorapplogo.png": "3b883cbc203770f60c610dd097c5bb6a",
-"assets/assets/images/bmicalculator.png": "56ed9a77e4dcf3e68a5bbfe641cf7a41",
+"assets/assets/images/bmicalculator.png": "4bd600a5be9d5e940ffdf0413263a5b9",
 "assets/assets/images/instagramicon.png": "534811d6586c78312036cbcb0f93a091",
 "assets/assets/images/linkdin.png": "40e60decb5a118860680990cbf4bd750",
 "assets/assets/images/github.png": "c40ccb4c6291e01e99a4f36e9d6b0883",
@@ -18,8 +18,8 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/AssetManifest.json": "d6f1b4460269f1bee39bae0972d96b19",
-"index.html": "382fe7aab79f0f81f5a0d38df90ef352",
-"/": "382fe7aab79f0f81f5a0d38df90ef352",
+"index.html": "cc3e41f046bb61bcbed7a404d8e15b25",
+"/": "cc3e41f046bb61bcbed7a404d8e15b25",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
