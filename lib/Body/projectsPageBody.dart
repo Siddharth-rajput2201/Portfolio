@@ -142,7 +142,7 @@ class _projectsPageBodyState extends State<projectsPageBody> {
           children: [
             FadeAnimation(1.0,Panel(projectName : 'HOME PRICE PREDICTOR', width: constraints.biggest.width / 1.15 ,imagepath: 'assets/images/homepricepredictorapplogo.png', githuburl: 'https://github.com/Siddharth-rajput2201/Home_Price_Predictor_App',downloadurl: 'https://drive.google.com/file/d/1vaR-AUEsCS6dOKGPhrRFzzh3YsXs28CV/view?usp=sharing'),),
             FadeAnimation(1.0,Panel(projectName : 'COVID 19 TRACKER', width: constraints.biggest.width / 1.15 ,imagepath: 'assets/images/coivd19tracker.png', githuburl: 'https://github.com/Siddharth-rajput2201/Covid19_Tracker',downloadurl: 'https://drive.google.com/file/d/1X5gDFku0dlgBINn65jekwf8vb7OF_-SY/view?usp=sharing'),),
-            FadeAnimation(1.0,Panel(projectName : 'BMI CALCULATOR', width: constraints.biggest.width / 1.15 ,imagepath: 'assets/images/bmicalculator.png', githuburl: 'https://github.com/Siddharth-rajput2201/Dice_App',downloadurl: 'https://drive.google.com/file/d/19scktoOD6_-A_86pEnC7aVW0SVlAKWEm/view?usp=sharing'),),
+            FadeAnimation(1.0,Panel(projectName : 'BMI CALCULATOR', width: constraints.biggest.width / 1.15 ,imagepath: 'assets/images/bmicalculator.png', githuburl: 'https://github.com/Siddharth-rajput2201/BMI-Calculaor-App',downloadurl: 'https://drive.google.com/file/d/19scktoOD6_-A_86pEnC7aVW0SVlAKWEm/view?usp=sharing'),),
           ],
         );
       }
