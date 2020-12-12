@@ -46203,20 +46203,20 @@ aD:function(){return new N.FH(C.k)}}
 N.FH.prototype={
 L:function(a,b){return new A.p5(new N.Wx(),null)}}
 N.Wx.prototype={
-$2:function(a0,a1){var s,r,q="HOME PRICE PREDICTOR",p=null,o="assets/images/homepricepredictorapplogo.png",n="https://github.com/Siddharth-rajput2201/Home_Price_Predictor_App",m="COVID 19 TRACKER",l="assets/images/coivd19tracker.png",k="https://github.com/Siddharth-rajput2201/Covid19_Tracker",j="https://drive.google.com/file/d/1X5gDFku0dlgBINn65jekwf8vb7OF_-SY/view?usp=sharing",i="BMI CALCULATOR",h="assets/images/bmicalculator.png",g="https://github.com/Siddharth-rajput2201/Dice_App",f="https://drive.google.com/file/d/19scktoOD6_-A_86pEnC7aVW0SVlAKWEm/view?usp=sharing",e=a1.b,d=t.Z,c=a1.a,b=a1.c,a=a1.d
-if(e>800){s=C.f.P(1/0,c,e)
-C.f.P(1/0,b,a)
-r=C.f.P(1/0,c,e)
-C.f.P(1/0,b,a)
-e=C.f.P(1/0,c,e)
-C.f.P(1/0,b,a)
-return T.i3(H.c([T.Of(H.c([new Y.dp(1,new N.he(q,o,s/4.5,n,"https://drive.google.com/file/d/1EDV8ZL4WmvAdx0sW56Y_naTP09zZP8ZD/view?usp=sharing",p),p),new Y.dp(1,new N.he(m,l,r/4.5,k,j,p),p),new Y.dp(1,new N.he(i,h,e/4.5,g,f,p),p)],d),C.aW)],d),C.aG,C.jI)}else{s=C.f.P(1/0,c,e)
-C.f.P(1/0,b,a)
-r=C.f.P(1/0,c,e)
-C.f.P(1/0,b,a)
-e=C.f.P(1/0,c,e)
-C.f.P(1/0,b,a)
-return T.i3(H.c([new Y.dp(1,new N.he(q,o,s/1.15,n,"https://drive.google.com/file/d/1vaR-AUEsCS6dOKGPhrRFzzh3YsXs28CV/view?usp=sharing",p),p),new Y.dp(1,new N.he(m,l,r/1.15,k,j,p),p),new Y.dp(1,new N.he(i,h,e/1.15,g,f,p),p)],d),C.aG,C.jI)}},
+$2:function(a,a0){var s,r,q="HOME PRICE PREDICTOR",p=null,o="assets/images/homepricepredictorapplogo.png",n="https://github.com/Siddharth-rajput2201/Home_Price_Predictor_App",m="COVID 19 TRACKER",l="assets/images/coivd19tracker.png",k="https://github.com/Siddharth-rajput2201/Covid19_Tracker",j="https://drive.google.com/file/d/1X5gDFku0dlgBINn65jekwf8vb7OF_-SY/view?usp=sharing",i="BMI CALCULATOR",h="assets/images/bmicalculator.png",g="https://drive.google.com/file/d/19scktoOD6_-A_86pEnC7aVW0SVlAKWEm/view?usp=sharing",f=a0.b,e=t.Z,d=a0.a,c=a0.c,b=a0.d
+if(f>800){s=C.f.P(1/0,d,f)
+C.f.P(1/0,c,b)
+r=C.f.P(1/0,d,f)
+C.f.P(1/0,c,b)
+f=C.f.P(1/0,d,f)
+C.f.P(1/0,c,b)
+return T.i3(H.c([T.Of(H.c([new Y.dp(1,new N.he(q,o,s/4.5,n,"https://drive.google.com/file/d/1EDV8ZL4WmvAdx0sW56Y_naTP09zZP8ZD/view?usp=sharing",p),p),new Y.dp(1,new N.he(m,l,r/4.5,k,j,p),p),new Y.dp(1,new N.he(i,h,f/4.5,"https://github.com/Siddharth-rajput2201/Dice_App",g,p),p)],e),C.aW)],e),C.aG,C.jI)}else{s=C.f.P(1/0,d,f)
+C.f.P(1/0,c,b)
+r=C.f.P(1/0,d,f)
+C.f.P(1/0,c,b)
+f=C.f.P(1/0,d,f)
+C.f.P(1/0,c,b)
+return T.i3(H.c([new Y.dp(1,new N.he(q,o,s/1.15,n,"https://drive.google.com/file/d/1vaR-AUEsCS6dOKGPhrRFzzh3YsXs28CV/view?usp=sharing",p),p),new Y.dp(1,new N.he(m,l,r/1.15,k,j,p),p),new Y.dp(1,new N.he(i,h,f/1.15,"https://github.com/Siddharth-rajput2201/BMI-Calculaor-App",g,p),p)],e),C.aG,C.jI)}},
 $S:297}
 A.oM.prototype={
 aD:function(){return new A.BQ(C.k)}}
