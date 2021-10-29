@@ -7,6 +7,11 @@ import '../Widgets/FadeAnimation.dart';
 
 
 class HomePageBody extends StatelessWidget {
+  
+  void _resumelancher() async {
+    await launch("https://drive.google.com/file/d/1VKHADq2XX8OMX7FCIFtn8ivG-WNaAlLT/view?usp=sharing");
+  }
+
   void _githublancher() async {
     await launch("https://github.com/Siddharth-rajput2201");
   }
@@ -49,7 +54,7 @@ class HomePageBody extends StatelessWidget {
                   ),
                   CircleAvatar(
                     radius: 80,
-                    backgroundImage: AssetImage('assets/images/profile_photo.jpeg'),
+                    backgroundImage: AssetImage('assets/images/profile_photo2.jpg'),
                   ),
                   //
                   // CircularProfileAvatar(
@@ -72,7 +77,7 @@ class HomePageBody extends StatelessWidget {
                     height: 20,
                   ),
                   Text(
-                    "ANDROID DEVELOPER | COMPETITIVE ",
+                    "FULL STACK DEVELOPER | CEH",
                     style: GoogleFonts.barlow(
                         textStyle: TextStyle(
                             color: Colors.grey[600],
@@ -83,15 +88,6 @@ class HomePageBody extends StatelessWidget {
                   SizedBox(
                     height: 10,
                   ),
-                  Text(
-                    " PROGRAMMER ",
-                    style: GoogleFonts.barlow(
-                        textStyle: TextStyle(
-                            color: Colors.grey[600],
-                            fontSize: 15,
-                            fontWeight: FontWeight.w600,
-                            letterSpacing: 2)),
-                  ),
                   SizedBox(
                     height: 25,
                   ),
@@ -99,22 +95,51 @@ class HomePageBody extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       GestureDetector(
-                        onTap: _githublancher,
-                        child: Image.asset(
-                          "assets/images/github.png",
-                          height: 60,
-                          width: 60,
+                        onTap: _resumelancher,
+                        child: Column(
+                          children: [
+                            Image.asset(
+                              "assets/images/resume.png",
+                              height: 52,
+                              width: 52,
+                            ),
+                            SizedBox(height:5),
+                            Text("RESUME",style: GoogleFonts.barlow(textStyle : TextStyle(fontSize: 15)),)
+                          ],
                         ),
                       ),
                       SizedBox(
-                        width: 10,
+                        width: 15,
+                      ),
+                      GestureDetector(
+                        onTap: _githublancher,
+                        child: Column(
+                          children: [
+                            Image.asset(
+                              "assets/images/github.png",
+                              height: 55,
+                              width: 55,
+                            ),
+                            SizedBox(height:3),
+                            Text("GITHUB",style: GoogleFonts.barlow(textStyle : TextStyle(fontSize: 15)),)
+                          ],
+                        ),
+                      ),
+                      SizedBox(
+                        width: 15,
                       ),
                       GestureDetector(
                         onTap: _linkdinlancher,
-                        child: Image.asset(
-                          "assets/images/linkdin.png",
-                          height: 70,
-                          width: 70,
+                        child: Column(
+                          children: [
+                            Image.asset(
+                              "assets/images/linkdin.png",
+                              height: 50,
+                              width: 50,
+                            ),
+                            SizedBox(height:5),
+                            Text("LINKDIN",style: GoogleFonts.barlow(textStyle : TextStyle(fontSize: 15)),)
+                          ],
                         ),
                       ),
                       SizedBox(
@@ -122,10 +147,16 @@ class HomePageBody extends StatelessWidget {
                       ),
                       GestureDetector(
                         onTap: _instalancher,
-                        child: Image.asset(
-                          "assets/images/instagramicon.png",
-                          height: 63,
-                          width: 63,
+                        child: Column(
+                          children: [
+                            Image.asset(
+                              "assets/images/instagramicon.png",
+                              height: 50,
+                              width: 50,
+                            ),
+                            SizedBox(height:5),
+                            Text("INSTAGRAM",style: GoogleFonts.barlow(textStyle : TextStyle(fontSize: 15)))
+                          ],
                         ),
                       ),
                     ],
