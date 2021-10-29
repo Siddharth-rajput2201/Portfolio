@@ -129,7 +129,7 @@ class _PanelState extends State<Panel> {
                                     ? (firstHalf) + "..."
                                     : (firstHalf) + (secondHalf)
                                 : firstHalf,
-                            style: GoogleFonts.barlow(),
+                            style: GoogleFonts.barlow(textStyle: TextStyle(color:Colors.black87)),
                           ),
                           TextSpan(
                             text: secondHalf.isNotEmpty
