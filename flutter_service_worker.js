@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "main.dart.js": "d52e4847a47ab970effb3d05aaa75cf1",
+  "main.dart.js": "ed3e4681cb42ffc533d7c3957aac9fe2",
 "assets/NOTICES": "1c74a4dd0340555e41155dfc29585ad6",
 "assets/assets/images/coivd19tracker.png": "4abfa0a9ab0741ca5501053fd355e584",
 "assets/assets/images/instagram.png": "03f40b67b63d9c1c1a5a792109bbc699",
@@ -22,8 +22,8 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/AssetManifest.json": "965a1aea38e2f40fb3b2b8fb98bc5e33",
-"index.html": "b19761ecf99cdf9a61fe47130b60ded2",
-"/": "b19761ecf99cdf9a61fe47130b60ded2",
+"index.html": "c2f9b6769ba3686824dfb2be6c8a1fc3",
+"/": "c2f9b6769ba3686824dfb2be6c8a1fc3",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/apple-icon-144x144.png": "ea48fd6b7a2eb6fd1a75ae195853b00a",
 "icons/apple-icon-57x57.png": "08edede2fc48963664645ca8bffd2e47",
