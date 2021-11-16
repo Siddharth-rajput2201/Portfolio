@@ -138,7 +138,7 @@ class HomePageBody extends StatelessWidget {
                               width: 50,
                             ),
                             SizedBox(height:5),
-                            Text("LINKDIN",style: GoogleFonts.barlow(textStyle : TextStyle(fontSize: 15)),)
+                            Text("LINKEDIN",style: GoogleFonts.barlow(textStyle : TextStyle(fontSize: 15)),)
                           ],
                         ),
                       ),
