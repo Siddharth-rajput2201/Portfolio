@@ -212,6 +212,22 @@ class _projectsPageBodyState extends State<projectsPageBody> {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
+                 FadeAnimation(
+                  1.0,
+                  Panel(
+                    projectName: 'Hassle Free',
+                    width: constraints.biggest.width / 4.5,
+                    imageHeight: 170,
+                    imageWidth: 170,
+                    imagepath: 'assets/images/Hassle_Free_Logo.png',
+                    githuburl:
+                        'https://github.com/Siddharth-rajput2201/Hassle_Free',
+                    downloadurl:
+                        'https://drive.google.com/file/d/1hdNKGnny6y5IgCmr6dqJ4qWNcXkN20SP/view?usp=sharing',
+                    projectDescription:
+                        "It is an Android Application, To Manage your password's It's Front-end is made using Flutter and it's backend is made using flask and utilizing Postgres SQL as it's database. The password are salted , hashed and encrypted securely before storing in database soo that NO ONE CAN ACCESS YOUR PASSWORD EXPECT YOU.",
+                  ),
+                ),
                 FadeAnimation(
                   1.0,
                   Panel(
@@ -255,7 +271,12 @@ class _projectsPageBodyState extends State<projectsPageBody> {
                         "This is an Android Application that tracks the Count of People Affected by Novel Covid - 19 . In this application Government Api's has been to provide Correct information.This application is made using Flutter .",
                   ),
                 ),
-                FadeAnimation(
+              ],
+            ),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                     FadeAnimation(
                   1.0,
                   Panel(
                     projectName: 'BMI CALCULATOR',
@@ -269,11 +290,6 @@ class _projectsPageBodyState extends State<projectsPageBody> {
                         "Flutter Application with beautiful UI ! BMI Calulator App .",
                   ),
                 ),
-              ],
-            ),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.center,
-              children: [
                 FadeAnimation(
                   1.0,
                   Panel(
@@ -367,6 +383,22 @@ class _projectsPageBodyState extends State<projectsPageBody> {
       } else {
         return Column(
           children: [
+                  FadeAnimation(
+                  1.0,
+                  Panel(
+                    projectName: 'Hassle Free',
+                    width: constraints.biggest.width / 1.15,
+                    imageHeight: 170,
+                    imageWidth: 170,
+                    imagepath: 'assets/images/Hassle_Free_Logo.png',
+                    githuburl:
+                        'https://github.com/Siddharth-rajput2201/Hassle_Free',
+                    downloadurl:
+                        'https://drive.google.com/file/d/1hdNKGnny6y5IgCmr6dqJ4qWNcXkN20SP/view?usp=sharing',
+                    projectDescription:
+                        "It is an Android Application ,To Manage your password's It's Front-end is made using Flutter and it's backend is made using flask and utilizing Postgres SQL as it's database. The password are salted , hashed and encrypted securely before storing in database soo that NO ONE CAN ACCESS YOUR PASSWORD EXPECT YOU.",
+                  ),
+                ),
             FadeAnimation(
               1.0,
               Panel(
